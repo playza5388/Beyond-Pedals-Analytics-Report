@@ -9,7 +9,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/v
 ![Dashboard 1](https://github.com/user-attachments/assets/7ed4c9f1-3446-4aaf-b0e4-7a57ebb5af18)
 
 ## Presentation
-The following presentation slides, created for the sales team, provide a detailed overview of the insights and recommendations. The presentation is also available [link].
+The following presentation slides, created for the sales team, provide a detailed overview of the insights and recommendations. The presentation is also available [here](https://drive.google.com/file/d/1NRuTQBvCFlZqViCUHaRuGYnL2jH_qepJ/view?usp=sharing).
 
 ![1](https://github.com/user-attachments/assets/8fc01a5d-3cc8-4143-9056-41962057e220)
 ![2](https://github.com/user-attachments/assets/3f07d978-314f-4e55-b34a-a74920d93a50)
