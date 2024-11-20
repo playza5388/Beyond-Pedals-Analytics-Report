@@ -15,7 +15,7 @@ The following presentation slides, created for the sales team, provide a detaile
 ![2](https://github.com/user-attachments/assets/3f07d978-314f-4e55-b34a-a74920d93a50)
 ![3](https://github.com/user-attachments/assets/12678fe6-877d-4d92-8a9c-1a2cf4185ebd)
 ![4](https://github.com/user-attachments/assets/81dc47af-07e1-4311-8763-5dfa80bb264a)
-![5](https://github.com/user-attachments/assets/cc8f4789-d4a7-48cd-94dc-bc7aa8395791)
+![Grey minimalist business project presentation ](https://github.com/user-attachments/assets/440cc3ea-79ee-4e3d-a556-7a6b9c46e484)
 ![6](https://github.com/user-attachments/assets/6150c904-2591-4c40-9ce9-3a40d87b522c)
 ![7](https://github.com/user-attachments/assets/b8eef52c-f344-4718-9f31-074c66896ca8)
 ![8](https://github.com/user-attachments/assets/8c3bc634-0063-4da9-bc88-50a1a9dfd930)
