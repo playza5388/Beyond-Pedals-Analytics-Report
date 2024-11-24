@@ -32,13 +32,24 @@ Founded in 2015 in South Africa, Beyond Pedals offers a diverse range of bicycle
 ![Dashboard 2 (3)](https://github.com/user-attachments/assets/c61e2542-6887-4f3f-9776-de6127f9a36c)
 
 ## Recommendations
-For seasonal sales management:
+### For seasonal sales management:
 - Implement strategic discounts to address seasonal sales fluctuations, particularly during December and January when sales typically reach their lowest point
 - Offer discounts above 5% during low-sales months to stimulate demand and increase sales volume
 
-For product category management:
+### For product category management:
 - Phase out the underperforming product category TRE, which currently accounts for only 56% of total sales
 - Specifically discontinue the FXGR1000 product line, which showed extremely low performance with just 105 units sold across 25 transactions in 2023
+
+## Presentation
+
+The following sample presentation slides, created for the sales team, offer a comprehensive overview of key insights and recommendations. The full presentation is also available [here](https://drive.google.com/file/d/1NRuTQBvCFlZqViCUHaRuGYnL2jH_qepJ/view?usp=sharing).
+
+![3](https://github.com/user-attachments/assets/12678fe6-877d-4d92-8a9c-1a2cf4185ebd)
+![4](https://github.com/user-attachments/assets/81dc47af-07e1-4311-8763-5dfa80bb264a)
+![Grey minimalist business project presentation ](https://github.com/user-attachments/assets/440cc3ea-79ee-4e3d-a556-7a6b9c46e484)
+![6](https://github.com/user-attachments/assets/6150c904-2591-4c40-9ce9-3a40d87b522c)
+![7](https://github.com/user-attachments/assets/b8eef52c-f344-4718-9f31-074c66896ca8)
+![8](https://github.com/user-attachments/assets/8c3bc634-0063-4da9-bc88-50a1a9dfd930)
 
 
 ## Dashboard
@@ -47,19 +58,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/v
 
 ![Dashboard 1](https://github.com/user-attachments/assets/7ed4c9f1-3446-4aaf-b0e4-7a57ebb5af18)
 
-## Presentation
-The following presentation slides, created for the sales team, provide a detailed overview of the insights and recommendations. The presentation is also available [here](https://drive.google.com/file/d/1NRuTQBvCFlZqViCUHaRuGYnL2jH_qepJ/view?usp=sharing).
 
-![1](https://github.com/user-attachments/assets/8fc01a5d-3cc8-4143-9056-41962057e220)
-![2](https://github.com/user-attachments/assets/3f07d978-314f-4e55-b34a-a74920d93a50)
-![3](https://github.com/user-attachments/assets/12678fe6-877d-4d92-8a9c-1a2cf4185ebd)
-![4](https://github.com/user-attachments/assets/81dc47af-07e1-4311-8763-5dfa80bb264a)
-![Grey minimalist business project presentation ](https://github.com/user-attachments/assets/440cc3ea-79ee-4e3d-a556-7a6b9c46e484)
-![6](https://github.com/user-attachments/assets/6150c904-2591-4c40-9ce9-3a40d87b522c)
-![7](https://github.com/user-attachments/assets/b8eef52c-f344-4718-9f31-074c66896ca8)
-![8](https://github.com/user-attachments/assets/8c3bc634-0063-4da9-bc88-50a1a9dfd930)
-![9](https://github.com/user-attachments/assets/26c19ab9-060f-4879-bbb7-a8e4c3262b56)
-![10](https://github.com/user-attachments/assets/c3f653c7-1894-4420-b575-f7e12a028fbc)
 
 
 
