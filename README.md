@@ -4,6 +4,7 @@
 Founded in 2015 in South Africa, Beyond Pedals offers a diverse range of bicycles, including electric, mountain, and city bikes, serving customers in South Africa and Australia. The company blends innovation, quality, and sustainability to provide high-performance bikes for riders of all levels, promoting an active, eco-friendly lifestyle.
 
 ## Executive Summary
+Based on an analysis of 23,184 sales records from January 2023 to September 2024, the Beyond Pedals sales study reveals critical insights into the company's performance across Australia and South Africa. The study demonstrates strong seasonal sales patterns, with peak periods occurring between April and June, and significant sales drops in the latter half of the year. Australia leads sales generation, accounting for 57.44% of total revenue ($158M).The TOU product category is the best performing, dominating at 39.73% ($103M). A key finding is the effectiveness of 3-4% discounts, which drive 69.17% ($180M) of total sales. The analysis recommends strategic discount management during low-sales months and suggests phasing out the underperforming TRE product category, which represents only 0.56% ($1.4M) of total sales. By leveraging these insights from the comprehensive dataset, Beyond Pedals can optimize its sales strategy, focusing on high-performing product lines and more targeted discount approaches to mitigate seasonal revenue fluctuations.
 
 ## Insights Deep-Dive
 ### Sales Trends by Country
